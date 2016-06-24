@@ -1,0 +1,9 @@
+
+cluster:
+  nodes: 15
+instrument:
+  name: arcs
+scatter:
+  ncount: 3e6
+  multiple_scattering: off
+  template: ./template

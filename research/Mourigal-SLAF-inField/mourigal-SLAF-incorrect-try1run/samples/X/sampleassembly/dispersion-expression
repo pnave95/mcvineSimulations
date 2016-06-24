@@ -1,0 +1,14 @@
+pi:=3.1415926535897932;
+twopi:=2*pi;
+a:=7.255;
+b:=5.002;
+c:=5.548;
+beta:=96.75/180.*pi;
+h:=a*Qz/twopi;
+k:=b*Qx/twopi;
+l:=c*(cos(beta)*Qz+sin(beta)*Qy)/twopi;
+lmod2:=l%2; lmod2p:=if(lmod2 &lt; 0, lmod2+2, lmod2);
+
+65*sqrt(1-(cos(pi*k)*cos(h/2*pi)*cos(l/2*pi))^2) 
+   + if(lmod2p >0.5  lmod2p < 1.5, 10, 0)"
+

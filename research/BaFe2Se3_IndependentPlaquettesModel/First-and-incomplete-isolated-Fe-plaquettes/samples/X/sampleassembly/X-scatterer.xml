@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE scatterer>
+
+<!-- weights: absorption, scattering, transmission -->
+<homogeneous_scatterer 
+  mcweights="0, 1, 0.1"
+  max_multiplescattering_loops="3"
+  >
+  
+  <KernelContainer average="yes">
+    
+    <E_Q_Kernel 
+	E_Q="0" 
+	S_Q="1"
+	Qmin="0./angstrom"
+	Qmax="16./angstrom"
+	/>
+    
+    <!--E_vQ_Kernel 
+	E_Q="pi:=3.1415926535897932; twopi:=2*pi; a:=3; b:=3; c:=3; 
+    h:=a*Qx/twopi; k:=b*Qy/twopi; l:=c*Qz/twopi;
+    gamma_k:=0.5*(cos(2*pi*h)+cos(2*pi*k));
+    twoTheta:=0.200334842323;
+    40*sqrt( (1+gamma_k)*(1-gamma_k*cos(twoTheta) ) )"
+	S_Q="1"
+	Emax="81*meV"
+	orientation="0.894427191,0.0,-0.4472135955,0.0,1.0,0.0,0.4472135955,0.0,0.894427191"
+	/>
+    -->
+    
+    <!--S has been scaled to 1.0-->
+    <E_vQ_Kernel
+    E_Q="S:=1.0; J_R:=54.0;
+    2.0*S*J_R"
+    S_Q="1"
+    Emax="109*meV"
+    orientation="0.894427191,0.0,-0.4472135955,0.0,1.0,0.0,0.4472135955,0.0,0.894427191"
+    />
+    
+    <!--S has been scaled to 1.0-->
+    <E_vQ_Kernel
+    E_Q="S:=1.0; J_L:=44.0;
+    2.0*S*J_L"
+    S_Q="1"
+    Emax="89*meV"
+    orientation="0.894427191,0.0,-0.4472135955,0.0,1.0,0.0,0.4472135955,0.0,0.894427191"
+    />
+    
+    <!--S has been scaled to 1.0-->
+    <E_vQ_Kernel
+    E_Q="S:=1.0; J_R:=54.0; J_L:=44.0;
+    2.0*S*(J_R+J_L)"
+    S_Q="1"
+    Emax="197*meV"
+    orientation="0.894427191,0.0,-0.4472135955,0.0,1.0,0.0,0.4472135955,0.0,0.894427191"
+    />
+    
+    
+    
+  </KernelContainer>
+  
+</homogeneous_scatterer>

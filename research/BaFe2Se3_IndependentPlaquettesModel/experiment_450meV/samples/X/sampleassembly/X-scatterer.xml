@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE scatterer>
+
+<!-- weights: absorption, scattering, transmission -->
+<homogeneous_scatterer 
+    mcweights="0, 1, 0.1"
+    max_multiplescattering_loops="3"
+    >
+  
+ <KernelContainer average="yes">
+
+  <E_Q_Kernel 
+     E_Q="0.0" 
+     S_Q="1" 
+     Qmin="0./angstrom"
+     Qmax="30./angstrom"
+     />
+    
+  <E_Q_Kernel
+    E_Q="88.0"
+    S_Q="1"
+    Qmin="0./angstrom"
+    Qmax="30./angstrom"
+    />
+    
+  <E_Q_Kernel
+    E_Q="108.0"
+    S_Q="1"
+    Qmin="0./angstrom"
+    Qmax="30./angstrom"
+    />
+    
+  <E_Q_Kernel
+    E_Q="196.0"
+    S_Q="1"
+    Qmin="0./angstrom"
+    Qmax="30.0/angstrom"
+    />
+    
+ </KernelContainer>
+  
+</homogeneous_scatterer>
