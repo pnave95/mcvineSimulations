@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+LAUNCHER=`python -c "from mcni.pyre_support.MpiApplication import mpi_launcher_choice as l; print l"`
+rm -rf out && ./sss --ncount=1e6 --multiple-scattering=off --$LAUNCHER.nodes=15 --buffer_size=10000
