@@ -1,0 +1,7 @@
+
+import mcvine
+from mcvine.applications.InstrumentBuilder import build
+components = ['source', 'detsys']
+App = build(components)
+app = App('sd')
+app.run()

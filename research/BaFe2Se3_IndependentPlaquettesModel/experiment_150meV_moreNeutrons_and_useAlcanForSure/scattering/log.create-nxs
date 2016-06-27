@@ -1,0 +1,18 @@
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcvine/deployment_info.py:41: UserWarning: Neither environment variable MCVINE_DIR nor DANSE_DIR was defined. Assumed that it is /SNS/users/lj7/software/miniconda2/envs/mcvine.
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+(436.77, 1.11, 0.0, 0.0, 5234983.58)
+* wait 10 seconds ...
+(437.58, 1.45, 0.0, 0.0, 5234984.81)
+* executing python sd --source=NeutronFromStorage --mpirun.nodes=2 --source.path=/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/out/scattered-neutrons --output-dir=out --detsys.tofparams=0,0.02,1e-07 --detsys.instrumentxml=/SNS/users/lj7/software/miniconda2/envs/mcvine/share/mcvine/resources/instruments/ARCS/detsys/ARCS.xml.fornxs --detsys=DetectorSystemFromXml --ncount=1991553 --detsys.eventsdat=events.dat... 
+(u'work-arcs-neutrons2nxs/todetsys/out/events.dat', u'arcs-sim.nxs')
+...................................................................................................................
+* executing mcvine instruments arcs neutrons2events out/scattered-neutrons --nodes=2 --workdir=work-arcs-neutrons2nxs/todetsys... 
+* executing mcvine instruments arcs events2nxs work-arcs-neutrons2nxs/todetsys/out/events.dat arcs-sim.nxs --type=raw --tofbinsize=0.1... 
+
+real	7m42.179s
+user	14m40.450s
+sys	0m7.021s

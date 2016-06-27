@@ -1,0 +1,296 @@
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+sigma_coh 1.495 coherent scattering cross section in [barn]
+sigma_inc 0.0082 incoherent scattering cross section in [barn]
+sigma_coh 1.495 coherent scattering cross section in [barn]
+sigma_inc 0.0082 incoherent scattering cross section in [barn]
+sigma_abs 0.231 absorption scattering cross section in [barn]
+sigma_coh 1.495 coherent scattering cross section in [barn]
+sigma_inc 0.0082 incoherent scattering cross section in [barn]
+sigma_abs 0.231 absorption scattering cross section in [barn]
+sigma_coh 1.495 coherent scattering cross section in [barn]
+sigma_inc 0.0082 incoherent scattering cross section in [barn]
+sigma_abs 0.231 absorption scattering cross section in [barn]
+sigma_coh 1.495 coherent scattering cross section in [barn]
+sigma_inc 0.0082 incoherent scattering cross section in [barn]
+sigma_abs 0.231 absorption scattering cross section in [barn]
+sigma_abs 0.231 absorption scattering cross section in [barn]
+sigma_coh 1.495 coherent scattering cross section in [barn]
+sigma_inc 0.0082 incoherent scattering cross section in [barn]
+sigma_abs 0.231 absorption scattering cross section in [barn]
+sigma_coh 1.495 coherent scattering cross section in [barn]
+sigma_inc 0.0082 incoherent scattering cross section in [barn]
+sigma_abs 0.231 absorption scattering cross section in [barn]
+sigma_coh 1.495 coherent scattering cross section in [barn]
+sigma_inc 0.0082 incoherent scattering cross section in [barn]
+sigma_abs 0.231 absorption scattering cross section in [barn]
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+1e-05
+0
+0
+0
+66.3966695178
+0
+0.924
+0.0328
+5.98
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/phonon/multiphonon.py:233: RuntimeWarning: divide by zero encountered in divide
+  return np.cosh(x)/np.sinh(x)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/phonon/multiphonon.py:248: RuntimeWarning: invalid value encountered in multiply
+  f = coth(beta * E/2.) * g/E
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/phonon/multiphonon.py:206: RuntimeWarning: divide by zero encountered in divide
+  t = 1./(1-np.exp(-E*beta)) # XXX
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/phonon/multiphonon.py:207: RuntimeWarning: invalid value encountered in divide
+  t = g/(E*g0)*t
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+DOS: fit first 100 points to parbolic
+1e-05
+0
+0
+0
+66.3966695178
+0
+0.924
+0.0328
+5.98
+weight:  1.0
+DOS: fit first 100 points to parbolic
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+1e-05
+0
+0
+0
+66.3966695178
+0
+0.924
+0.0328
+5.98
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+1e-05
+0
+0
+0
+66.3966695178
+0
+0.924
+0.0328
+5.98
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+1e-05
+weight:  1.0
+0
+0
+0
+66.3966695178
+0
+0.924
+0.0328
+5.98
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+1e-05
+0
+0
+0
+66.3966695178
+0
+0.924
+0.0328
+5.98
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+1e-05
+0
+0
+0
+66.3966695178
+0
+0.924
+0.0328
+5.98
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+DOS: fit first 100 points to parbolic
+DOS: fit first 100 points to parbolic
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+1e-05
+0
+0
+0
+66.3966695178
+0
+0.924
+0.0328
+5.98
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+weight:  1.0
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+weight:  1.0
+cartesian coordinates of atom: weight:  1.0
+weight:  1.0
+weight:  1.0
+[ 0.  0.  0.]
+weight:  1.0
+weight:  1.0
+cartesian coordinates of atom: cartesian coordinates of atom: [ 0.  0.  0.]
+[ 0.  0.  0.]
+weight:  1.0
+weight:  1.0
+cartesian coordinates of atom: cartesian coordinates of atom: [ 0.  0.  0.]
+[ 0.  0.  0.]
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+cartesian coordinates of atom: [ 0.  0.  0.]
+weight:  1.0
+weight:  1.0
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+(46.18, 2.97, 0.0, 0.01, 5234480.25)
+(46.1, 2.82, 0.0, 0.01, 5234480.26)
+(77.65, 4.3, 0.0, 0.01, 5234480.29)
+(46.21, 2.94, 0.0, 0.01, 5234480.33)
+(46.46, 2.92, 0.0, 0.01, 5234480.41)
+(46.52, 2.61, 0.0, 0.01, 5234480.45)
+(46.31, 2.95, 0.0, 0.01, 5234480.5)
+(46.64, 2.9, 0.0, 0.01, 5234480.79)

@@ -1,0 +1,30 @@
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcvine/deployment_info.py:41: UserWarning: Neither environment variable MCVINE_DIR nor DANSE_DIR was defined. Assumed that it is /SNS/users/lj7/software/miniconda2/envs/mcvine.
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mantid/kernel/__init__.py:13: RuntimeWarning: to-Python converter for std::vector<int, std::allocator<int> > already registered; second conversion method ignored.
+  from ._kernel import *
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mantid/kernel/__init__.py:13: RuntimeWarning: to-Python converter for std::vector<double, std::allocator<double> > already registered; second conversion method ignored.
+  from ._kernel import *
+FrameworkManager-[Notice] Welcome to Mantid 3.6.100
+FrameworkManager-[Notice] Please cite: http://dx.doi.org/10.1016/j.nima.2014.07.029 and this release: http://dx.doi.org/10.5286/Software/Mantid3.6.100
+DgsReduction-[Notice] DgsReduction started
+DgsConvertToEnergyTransfer-[Notice] Starting DgsConvertToEnergyTransfer
+DgsConvertToEnergyTransfer-[Notice] Processing for SNS
+DgsConvertToEnergyTransfer-[Notice] Trying to determine file name
+DgsConvertToEnergyTransfer-[Notice] Loading NeXus monitors
+GetEi-[Notice] Incident energy calculated at Ei= 150.899 meV from initial guess = 151.863 meV
+DgsConvertToEnergyTransfer-[Notice] Adjusting for T0
+DgsPreprocessData-[Notice] Starting DgsPreprocessData
+DgsPreprocessData-[Notice] Incident beam norm method = None
+DgsConvertToEnergyTransfer-[Notice] Converting to energy transfer.
+DgsConvertToEnergyTransfer-[Notice] Rebinning data
+DgsConvertToEnergyTransfer-[Notice] Rebinning data
+DgsConvertToEnergyTransfer-[Notice] Making distribution
+DgsReduction-[Notice] DgsReduction successful, Duration 8.84 seconds
+SofQWNormalisedPolygon-[Notice] SofQWNormalisedPolygon started
+SofQWNormalisedPolygon-[Notice] SofQWNormalisedPolygon successful, Duration 34.32 seconds
+SaveNexus-[Notice] SaveNexus started
+SaveNexus-[Notice] SaveNexus successful, Duration 30.26 seconds
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcvine/deployment_info.py:41: UserWarning: Neither environment variable MCVINE_DIR nor DANSE_DIR was defined. Assumed that it is /SNS/users/lj7/software/miniconda2/envs/mcvine.
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/histogram/hdf/Loader.py:129: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  if 'storage' in list(dataGroup): # this uses the 'storage' convention

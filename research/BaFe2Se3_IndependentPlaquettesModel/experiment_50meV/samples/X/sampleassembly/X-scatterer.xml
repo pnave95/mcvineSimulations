@@ -24,20 +24,6 @@
     Qmax="6.5/angstrom"
     />
     
-  <E_Q_Kernel
-    E_Q="108"
-    S_Q="1"
-    Qmin="0./angstrom"
-    Qmax="6.5/angstrom"
-    />
-    
-  <E_Q_Kernel
-    E_Q="196"
-    S_Q="1"
-    Qmin="0./angstrom"
-    Qmax="6.5/angstrom"
-    />
-    
  </KernelContainer>
   
 </homogeneous_scatterer>
