@@ -1,0 +1,31 @@
+
+angles: -90,90.1,3.0
+filename_pattern: work_%(angle)s/reduced_%(angle)s.nxs
+lattice: 3., 3., 3., 90, 90, 90
+orientation:
+ u: 1, 0, 2
+ v: 1,0,0
+Eaxis:
+ min: 0
+ max: 90
+ N: 181
+Q_projections:
+ U:
+  proj: 1,1,0
+  proj_name: H,H,0
+  min: -0.5
+  max: 0.0
+  N: 100
+ V:
+  proj: -1,1,0
+  proj_name: -H,H,0
+  min: -0.05
+  max: 0.05
+  N: 1
+ W:
+  proj: 0,0,1
+  proj_name: 0,0,L
+  min: -0.5
+  max: 0.5
+  N: 1
+output: slice_GammaToM_v2.nxs
