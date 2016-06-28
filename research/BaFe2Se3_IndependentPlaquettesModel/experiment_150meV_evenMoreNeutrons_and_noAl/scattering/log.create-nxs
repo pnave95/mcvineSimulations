@@ -1,0 +1,72 @@
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcvine/deployment_info.py:41: UserWarning: Neither environment variable MCVINE_DIR nor DANSE_DIR was defined. Assumed that it is /SNS/users/lj7/software/miniconda2/envs/mcvine.
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+(200646.11, 6324.82, 0.0, 0.0, 5488152.54)
+* wait 10 seconds ...
+* wait 20 seconds ...
+* wait 40 seconds ...
+* wait 80 seconds ...
+(201909.35, 7264.39, 0.0, 0.0, 5490342.33)
+* executing python sd --source=NeutronFromStorage --mpirun.nodes=2 --source.path=/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/out/scattered-neutrons --output-dir=out --detsys.tofparams=0,0.02,1e-07 --detsys.instrumentxml=/SNS/users/lj7/software/miniconda2/envs/mcvine/share/mcvine/resources/instruments/ARCS/detsys/ARCS.xml.fornxs --detsys=DetectorSystemFromXml --ncount=1000000000 --detsys.eventsdat=events.dat... 
+(u'work-arcs-neutrons2nxs/todetsys/out/events.dat', u'arcs-sim.nxs')
+Traceback (most recent call last):
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/bin/mcvine", line 8, in <module>
+    if __name__ == '__main__': mcvine()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 716, in __call__
+    return self.main(*args, **kwargs)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 696, in main
+    rv = self.invoke(ctx)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 1065, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 1065, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 1065, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 892, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 534, in invoke
+    return callback(*args, **kwargs)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcvine/instruments/ARCS/cli.py", line 66, in events2nxs
+    run(events, nxs, tofbinsize=tofbinsize, type=type, Ei=ei)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcvine/instruments/ARCS/applications/Events2Nxs.py", line 19, in run
+    events = readEvents(eventfile)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/detector/event_utils.py", line 31, in readEvents
+    events = np.fromfile(file, datatype)
+IOError: [Errno 2] No such file or directory: u'work-arcs-neutrons2nxs/todetsys/out/events.dat'
+* executing mcvine instruments arcs neutrons2events out/scattered-neutrons --nodes=2 --workdir=work-arcs-neutrons2nxs/todetsys... 
+* executing mcvine instruments arcs events2nxs work-arcs-neutrons2nxs/todetsys/out/events.dat arcs-sim.nxs --type=raw --tofbinsize=0.1... 
+Traceback (most recent call last):
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/bin/mcvine", line 8, in <module>
+    if __name__ == '__main__': mcvine()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 716, in __call__
+    return self.main(*args, **kwargs)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 696, in main
+    rv = self.invoke(ctx)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 1065, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 1065, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 1065, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 892, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/core.py", line 534, in invoke
+    return callback(*args, **kwargs)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/click/decorators.py", line 17, in new_func
+    return f(get_current_context(), *args, **kwargs)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcvine/instruments/ARCS/cli.py", line 85, in neutrons2nxs
+    run(neutrons, nxs, type, workdir, nodes)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcvine/instruments/ARCS/applications/Neutrons2Nxs.py", line 29, in run
+    event2nxs(eventdat, nxs, type, os.curdir)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcvine/instruments/ARCS/applications/Neutrons2Nxs.py", line 48, in event2nxs
+    execute(cmd, workdir)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcvine/instruments/ARCS/applications/utils.py", line 9, in execute
+    raise RuntimeError, "%r failed" % cmd
+RuntimeError: u'mcvine instruments arcs events2nxs work-arcs-neutrons2nxs/todetsys/out/events.dat arcs-sim.nxs --type=raw --tofbinsize=0.1' failed
+
+real	3499m1.568s
+user	6728m2.558s
+sys	241m49.122s

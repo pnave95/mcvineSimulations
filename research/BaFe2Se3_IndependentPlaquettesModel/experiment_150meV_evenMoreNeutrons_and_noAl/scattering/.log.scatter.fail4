@@ -1,0 +1,286 @@
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_moreNeutrons_and_useAlcanForSure/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+Traceback (most recent call last):
+  File "./sss", line 15, in <module>
+Traceback (most recent call last):
+  File "./sss", line 15, in <module>
+Traceback (most recent call last):
+  File "./sss", line 15, in <module>
+Traceback (most recent call last):
+  File "./sss", line 15, in <module>
+Traceback (most recent call last):
+  File "./sss", line 15, in <module>
+Traceback (most recent call last):
+  File "./sss", line 15, in <module>
+    if __name__ == '__main__': main()
+  File "./sss", line 12, in main
+    if __name__ == '__main__': main()
+  File "./sss", line 12, in main
+    if __name__ == '__main__': main()
+  File "./sss", line 12, in main
+    if __name__ == '__main__': main()
+  File "./sss", line 12, in main
+    if __name__ == '__main__': main()
+  File "./sss", line 12, in main
+    if __name__ == '__main__': main()
+  File "./sss", line 12, in main
+    app.run()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/applications/Application.py", line 73, in run
+    app.run()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/applications/Application.py", line 73, in run
+    app.run()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/applications/Application.py", line 73, in run
+    app.run()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/applications/Application.py", line 73, in run
+    app.run()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/applications/Application.py", line 73, in run
+    app.run()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/applications/Application.py", line 73, in run
+    self.init()
+    self.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/ComponentInitMixin.py", line 27, in init
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/ComponentInitMixin.py", line 27, in init
+    self.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/ComponentInitMixin.py", line 27, in init
+    self.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/ComponentInitMixin.py", line 27, in init
+    self.init()
+    self.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/ComponentInitMixin.py", line 27, in init
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/ComponentInitMixin.py", line 27, in init
+    self.inventory.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Inventory.py", line 179, in init
+    self.inventory.init()
+    self.inventory.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Inventory.py", line 179, in init
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Inventory.py", line 179, in init
+    self.inventory.init()
+    self.inventory.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Inventory.py", line 179, in init
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Inventory.py", line 179, in init
+    self.inventory.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Inventory.py", line 179, in init
+    component.init()
+    component.init()
+Traceback (most recent call last):
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Configurable.py", line 29, in init
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Configurable.py", line 29, in init
+  File "./sss", line 15, in <module>
+    component.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Configurable.py", line 29, in init
+    component.init()
+    component.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Configurable.py", line 29, in init
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Configurable.py", line 29, in init
+    component.init()
+Traceback (most recent call last):
+  File "./sss", line 15, in <module>
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Configurable.py", line 29, in init
+    self._init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/pyre_support/components/SampleAssemblyFromXml.py", line 55, in _init
+    self._init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/pyre_support/components/SampleAssemblyFromXml.py", line 55, in _init
+    self._init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/pyre_support/components/SampleAssemblyFromXml.py", line 55, in _init
+    if __name__ == '__main__': main()
+  File "./sss", line 12, in main
+    self._init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/pyre_support/components/SampleAssemblyFromXml.py", line 55, in _init
+    self._init()
+    if __name__ == '__main__': main()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/pyre_support/components/SampleAssemblyFromXml.py", line 55, in _init
+    self._init()
+  File "./sss", line 12, in main
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/pyre_support/components/SampleAssemblyFromXml.py", line 55, in _init
+    self.name, self.xml)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py", line 39, in samplecomponent
+    self.name, self.xml)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py", line 39, in samplecomponent
+    app.run()
+    self.name, self.xml)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/applications/Application.py", line 73, in run
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py", line 39, in samplecomponent
+    self.name, self.xml)
+    self.name, self.xml)
+    self.name, self.xml)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py", line 39, in samplecomponent
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py", line 39, in samplecomponent
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py", line 39, in samplecomponent
+    app.run()
+    sampleassembly2compositescatterer( sa ) )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/applications/Application.py", line 73, in run
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 21, in findkernelsfromxmls
+    sampleassembly2compositescatterer( sa ) )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 21, in findkernelsfromxmls
+    self.init()
+    sampleassembly2compositescatterer( sa ) )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/ComponentInitMixin.py", line 27, in init
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 21, in findkernelsfromxmls
+    sampleassembly2compositescatterer( sa ) )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 21, in findkernelsfromxmls
+    self.init()
+    sampleassembly2compositescatterer( sa ) )
+    sampleassembly2compositescatterer( sa ) )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/ComponentInitMixin.py", line 27, in init
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 21, in findkernelsfromxmls
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 21, in findkernelsfromxmls
+    return FindKernelsFromXMLs().render( compositescatterer )
+    self.inventory.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 97, in render
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Inventory.py", line 179, in init
+    return FindKernelsFromXMLs().render( compositescatterer )
+    return FindKernelsFromXMLs().render( compositescatterer )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 97, in render
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 97, in render
+    self.inventory.init()
+    return FindKernelsFromXMLs().render( compositescatterer )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Inventory.py", line 179, in init
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 97, in render
+    return FindKernelsFromXMLs().render( compositescatterer )
+    return FindKernelsFromXMLs().render( compositescatterer )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 97, in render
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 97, in render
+    return compositescatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomposite/CompositeScatterer.py", line 60, in identify
+    component.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Configurable.py", line 29, in init
+    return compositescatterer.identify(self)
+    return compositescatterer.identify(self)
+    component.init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomposite/CompositeScatterer.py", line 60, in identify
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/inventory/Configurable.py", line 29, in init
+    return compositescatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomposite/CompositeScatterer.py", line 60, in identify
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomposite/CompositeScatterer.py", line 60, in identify
+    return compositescatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomposite/CompositeScatterer.py", line 60, in identify
+    return compositescatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomposite/CompositeScatterer.py", line 60, in identify
+    self._init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/pyre_support/components/SampleAssemblyFromXml.py", line 55, in _init
+    self._init()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/pyre_support/components/SampleAssemblyFromXml.py", line 55, in _init
+    self.name, self.xml)
+      File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py", line 39, in samplecomponent
+self.name, self.xml)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py", line 39, in samplecomponent
+    sampleassembly2compositescatterer( sa ) )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 21, in findkernelsfromxmls
+    sampleassembly2compositescatterer( sa ) )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 21, in findkernelsfromxmls
+    return FindKernelsFromXMLs().render( compositescatterer )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 97, in render
+    return FindKernelsFromXMLs().render( compositescatterer )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 97, in render
+    return compositescatterer.identify(self)
+    return compositescatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomposite/CompositeScatterer.py", line 60, in identify
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomposite/CompositeScatterer.py", line 60, in identify
+    def identify(self, visitor): return visitor.onCompositeScatterer(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 102, in onCompositeScatterer
+    def identify(self, visitor): return visitor.onCompositeScatterer(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 102, in onCompositeScatterer
+    def identify(self, visitor): return visitor.onCompositeScatterer(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 102, in onCompositeScatterer
+    def identify(self, visitor): return visitor.onCompositeScatterer(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 102, in onCompositeScatterer
+    def identify(self, visitor): return visitor.onCompositeScatterer(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 102, in onCompositeScatterer
+    def identify(self, visitor): return visitor.onCompositeScatterer(self)
+    def identify(self, visitor): return visitor.onCompositeScatterer(self)
+    def identify(self, visitor): return visitor.onCompositeScatterer(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 102, in onCompositeScatterer
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 102, in onCompositeScatterer
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 102, in onCompositeScatterer
+    scatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/homogeneous_scatterer/HomogeneousScatterer.py", line 47, in identify
+    scatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/homogeneous_scatterer/HomogeneousScatterer.py", line 47, in identify
+    scatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/homogeneous_scatterer/HomogeneousScatterer.py", line 47, in identify
+    scatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/homogeneous_scatterer/HomogeneousScatterer.py", line 47, in identify
+    scatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/homogeneous_scatterer/HomogeneousScatterer.py", line 47, in identify
+    scatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/homogeneous_scatterer/HomogeneousScatterer.py", line 47, in identify
+    scatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/homogeneous_scatterer/HomogeneousScatterer.py", line 47, in identify
+    scatterer.identify(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/homogeneous_scatterer/HomogeneousScatterer.py", line 47, in identify
+    def identify(self, visitor): return visitor.onHomogeneousScatterer(self)
+    def identify(self, visitor): return visitor.onHomogeneousScatterer(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 112, in onHomogeneousScatterer
+    def identify(self, visitor): return visitor.onHomogeneousScatterer(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 112, in onHomogeneousScatterer
+    def identify(self, visitor): return visitor.onHomogeneousScatterer(self)
+    def identify(self, visitor): return visitor.onHomogeneousScatterer(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 112, in onHomogeneousScatterer
+    def identify(self, visitor): return visitor.onHomogeneousScatterer(self)
+    def identify(self, visitor): return visitor.onHomogeneousScatterer(self)
+    def identify(self, visitor): return visitor.onHomogeneousScatterer(self)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 112, in onHomogeneousScatterer
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 112, in onHomogeneousScatterer
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 112, in onHomogeneousScatterer
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 112, in onHomogeneousScatterer
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/sampleassembly_support.py", line 112, in onHomogeneousScatterer
+    mcscatterer = parse_file( xmlfilename )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/kernelxml/__init__.py", line 22, in parse_file
+    mcscatterer = parse_file( xmlfilename )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/kernelxml/__init__.py", line 22, in parse_file
+    mcscatterer = parse_file( xmlfilename )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/kernelxml/__init__.py", line 22, in parse_file
+    mcscatterer = parse_file( xmlfilename )
+    mcscatterer = parse_file( xmlfilename )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/kernelxml/__init__.py", line 22, in parse_file
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/kernelxml/__init__.py", line 22, in parse_file
+    mcscatterer = parse_file( xmlfilename )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/kernelxml/__init__.py", line 22, in parse_file
+    mcscatterer = parse_file( xmlfilename )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/kernelxml/__init__.py", line 22, in parse_file
+    mcscatterer = parse_file( xmlfilename )
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/kernelxml/__init__.py", line 22, in parse_file
+    return parse( open( filename ), *args )
+IOError: [Errno 2] No such file or directory: u'Al-scatterer.xml'
+    return parse( open( filename ), *args )
+IOError: [Errno 2] No such file or directory: u'Al-scatterer.xml'
+    return parse( open( filename ), *args )
+IOError: [Errno 2] No such file or directory: u'Al-scatterer.xml'
+    return parse( open( filename ), *args )
+    return parse( open( filename ), *args )
+IOError: IOError[Errno 2] No such file or directory: u'Al-scatterer.xml'
+    return parse( open( filename ), *args )
+: [Errno 2] No such file or directory: u'Al-scatterer.xml'
+IOError: [Errno 2] No such file or directory: u'Al-scatterer.xml'
+    return parse( open( filename ), *args )
+    return parse( open( filename ), *args )
+IOError: [Errno 2] No such file or directory: u'Al-scatterer.xml'
+IOError: [Errno 2] No such file or directory: u'Al-scatterer.xml'
+Traceback (most recent call last):
+  File "./sss", line 15, in <module>
+    if __name__ == '__main__': main()
+  File "./sss", line 12, in main
+    app.run()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/pyre/applications/Application.py", line 88, in run
+    rt = self.execute(*args, **kwds)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/MpiAppBase.py", line 30, in execute
+    self.onServer(*args, **kwds)
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/MpiApplication.py", line 73, in onServer
+    launched = launcher.launch()
+  File "/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/MPILauncherBase.py", line 45, in launch
+    raise RuntimeError("%s failed" % command)
+RuntimeError: mpirun  -np 8 `which python` ./sss --mode=worker --ncount="2e6" --multiple-scattering="off" --mpirun.nodes="8" --buffer_size="10000" failed

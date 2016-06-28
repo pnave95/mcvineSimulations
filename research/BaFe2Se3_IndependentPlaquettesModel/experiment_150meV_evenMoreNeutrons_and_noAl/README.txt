@@ -1,0 +1,2 @@
+status:  incomplete and inadequate
+- The beam simulation only used of the order 1e6 neutrons, and the beam profile therefore does not adequately approach a smooth distribution, but instead has many sharp spikes.  The statistics of the beam are therefore quite bad, and the data in this simulation should not be considered reliable.  In addition, the simulation is incomplete because the large volume of data produced by the simulation overwhelmed the SNS cluster.

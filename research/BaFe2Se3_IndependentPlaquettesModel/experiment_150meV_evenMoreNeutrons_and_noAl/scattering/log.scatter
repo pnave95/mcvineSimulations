@@ -1,0 +1,195 @@
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/pyre_support/Instrument.py:326: UserWarning: The buffer size 10000 is too small
+  warnings.warn("The buffer size %s is too small" % usersize)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mccomponents/sample/__init__.py:32: ImportWarning: Not importing directory '/SNS/users/p63/mcvine/research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/sampleassembly': missing __init__.py
+  from sampleassembly.saxml import parse_file
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/sampleassembly/visitors/__init__.py:57: DeprecationWarning: To compute absorption and scattering coefficients, use method 'compute_absorption_and_scattering_coeffs'.
+  warnings.warn(msg, DeprecationWarning)
+weight: weight:  1.0
+ 1.0
+weight: weight: weight:  1.0
+ 1.0
+ 1.0
+weight: weight:  1.0
+weight:  1.0
+weight:  1.0weight: 
+weight:  1.0
+  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+1.0
+weight:  1.0
+weight:  1.0
+weight:  weight: weight:  1.0
+weight:  1.0
+weight:  1.0
+1.0
+ 1.0
+weight: weight:  1.0
+weight:  1.0
+ 1.0
+weight:  1.0
+weight:  weight:  1.0
+1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight: weight:   1.0
+1.0
+weight:  weight:  weight:  1.0
+1.0
+1.0
+weight: weight:  1.0
+weight:  1.0
+weight:  1.0
+ weight:  1.0
+1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight: weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight: weight:  1.0
+ 1.0
+ weight:  1.0weight:  
+1.0
+1.0
+weight:  weight: 1.0
+ 1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+weight:  1.0
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In NeutronToStorage: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+(23683.64, 599.95, 0.0, 0.0, 5278781.48)
+(23630.99, 659.98, 0.0, 0.0, 5278781.52)
+(24218.84, 66.07, 0.0, 0.0, 5278781.55)
+(23766.57, 518.38, 0.0, 0.0, 5278781.56)
+(24107.14, 181.89, 0.0, 0.0, 5278781.68)
+(23847.19, 444.08, 0.0, 0.0, 5278785.38)
+(23750.83, 545.54, 0.0, 0.0, 5278787.98)
+(24010.5, 293.57, 0.0, 0.0, 5278797.84)
+(23430.39, 879.92, 0.0, 0.0, 5278798.48)
+(23946.8, 364.75, 0.0, 0.0, 5278805.17)
+(24259.45, 58.76, 0.0, 0.0, 5278815.48)
+(24277.6, 51.19, 0.0, 0.0, 5278822.94)
+(24001.75, 326.64, 0.0, 0.0, 5278823.31)
+(23580.98, 754.09, 0.0, 0.0, 5278824.71)
+(24287.61, 44.88, 0.0, 0.0, 5278830.53)

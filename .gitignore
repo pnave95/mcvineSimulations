@@ -4,4 +4,6 @@
 **/iqe.nxs
 **/*.nxs
 
-research/BaFe2Se3_IndependentPlaquettesModel/experiment_150meV_evenMoreNeutrons_and_noAl/scattering/*
+**/out/*
+**/*.dat
+**/*rank*
