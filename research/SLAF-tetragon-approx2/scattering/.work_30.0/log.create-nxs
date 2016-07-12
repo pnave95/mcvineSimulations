@@ -1,0 +1,57 @@
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcvine/deployment_info.py:41: UserWarning: Neither environment variable MCVINE_DIR nor DANSE_DIR was defined. Assumed that it is /SNS/users/lj7/software/miniconda2/envs/mcvine.
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+/SNS/users/lj7/software/miniconda2/envs/mcvine/lib/python2.7/site-packages/mcni/AbstractComponent.py:40: UserWarning: In DetectorSystemFromXml: Deprecated. should use self.simulation_context.overwrite_datafiles
+  warnings.warn(msg)
+(56.78, 8.85, 0.0, 0.0, 5680960.0)
+* wait 10 seconds ...
+(56.87, 8.93, 0.0, 0.0, 5680960.14)
+(57.05, 8.79, 0.0, 0.0, 5680960.18)
+(57.04, 8.92, 0.0, 0.0, 5680960.3)
+(57.22, 8.9, 0.0, 0.0, 5680960.5)
+(57.37, 8.85, 0.0, 0.0, 5680960.6)
+(57.55, 8.85, 0.0, 0.0, 5680960.72)
+(57.51, 8.9, 0.0, 0.0, 5680960.73)
+(57.77, 8.92, 0.0, 0.0, 5680961.09)
+(57.88, 8.88, 0.0, 0.0, 5680961.13)
+(58.14, 8.84, 0.0, 0.0, 5680961.36)
+(58.22, 8.91, 0.0, 0.0, 5680961.48)
+(58.39, 8.95, 0.0, 0.0, 5680961.68)
+(58.73, 8.89, 0.0, 0.0, 5680961.94)
+(58.66, 8.94, 0.0, 0.0, 5680961.95)
+* executing python sd --source=NeutronFromStorage --mpirun.nodes=15 --source.path=/SNS/users/p63/mcvine/research/SLAF-tetragon-approx2/scattering/work_30.0/out/scattered-neutrons --output-dir=out --detsys.tofparams=0,0.02,1e-07 --detsys.instrumentxml=/SNS/users/lj7/software/miniconda2/envs/mcvine/share/mcvine/resources/instruments/ARCS/detsys/ARCS.xml.fornxs --detsys=DetectorSystemFromXml --ncount=1000000 --detsys.eventsdat=events.dat... 
+(u'work-arcs-neutrons2nxs/todetsys/out/events.dat', u'sim.nxs')
+...................................................................................................................
+* executing mcvine instruments arcs neutrons2events out/scattered-neutrons --nodes=15 --workdir=work-arcs-neutrons2nxs/todetsys... 
+* executing mcvine instruments arcs events2nxs work-arcs-neutrons2nxs/todetsys/out/events.dat sim.nxs --type=raw --tofbinsize=0.1... 
+
+real	1m30.245s
+user	15m40.239s
+sys	3m8.797s

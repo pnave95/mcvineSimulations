@@ -28,7 +28,7 @@
     Sxx:=(Uq+Vq)^2; Syy:=(Uq-Vq)^2;
     Sxoxo:=Sxx*(sin(theta))^2; Syoyo:=Syy;
     Sxoxo+Syoyo"
-	Emax="50*meV"
+	Emax="180*meV"
 	orientation="0.894427191,0.0,-0.4472135955,0.0,1.0,0.0,0.4472135955,0.0,0.894427191"
 	/>
     
@@ -49,7 +49,7 @@
     Uq:=sqrt(UqSquared); Vq:=sqrt(VqSquared);
     Sxx:=(Uq+Vq)^2; Syy:=(Uq-Vq)^2;
     Sxx*(cos(theta))^2"
-	Emax="50*meV"
+	Emax="180*meV"
 	orientation="0.894427191,0.0,-0.4472135955,0.0,1.0,0.0,0.4472135955,0.0,0.894427191"
 	/>   
     
