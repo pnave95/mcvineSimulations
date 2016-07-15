@@ -1,0 +1,758 @@
+-90.0 work_-90.0/reduced_-90.0.nxs
+FrameworkManager-[Notice] Welcome to Mantid 3.6.100
+FrameworkManager-[Notice] Please cite: http://dx.doi.org/10.1016/j.nima.2014.07.029 and this release: http://dx.doi.org/10.5286/Software/Mantid3.6.100
+Load-[Notice] Load started
+Load-[Notice] Load successful, Duration 49.58 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.82 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 2.48 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.56 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.44 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.64 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.49 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.53 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.49 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.59 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.53 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.57 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.65 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.89 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.53 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.50 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.69 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.47 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.99 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.57 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.51 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.52 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.90 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.63 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.99 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.63 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.34 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.54 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.53 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.56 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.38 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 1.87 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.54 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 1.53 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 1.29 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.51 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.93 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.71 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.49 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 1.07 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.64 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.44 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.69 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.51 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.48 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.44 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.45 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.38 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.41 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.47 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.52 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.45 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.40 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.50 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.47 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.37 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.43 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.40 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.41 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.57 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.51 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.50 seconds
+CompressEvents-[Notice] CompressEvents successful, Duration 39.38 seconds. Processed as a workspace group
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.02 seconds. Processed as a workspace group
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.04 seconds. Processed as a workspace group
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB successful, Duration 0.04 seconds. Processed as a workspace group
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.13 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.35 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 2.26 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 4.02 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.83 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 2.84 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.29 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.74 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.88 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.78 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.67 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.18 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.89 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.76 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 2.45 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.42 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 2.79 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.83 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.57 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.41 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.63 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.77 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.66 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.35 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.12 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.99 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 2.48 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.38 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.30 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.50 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.78 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.29 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.63 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 3.00 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.78 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.63 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.15 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.78 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.91 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.40 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.59 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.06 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.76 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.34 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.60 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.69 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.03 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.57 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.64 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.70 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.53 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.58 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.68 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.56 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 2.47 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.92 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.07 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.90 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.01 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1.94 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.61 seconds
+CropWorkspace-[Notice] CropWorkspace successful, Duration 1 minutes 23.35 seconds. Processed as a workspace group
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.02 seconds. Processed as a workspace group
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Error] The projections are coplanar. Will use defaults [1,0,0],[0,1,0] and [0,0,1]
+ConvertToMD-[Notice] ConvertToMD successful, Duration 3.21 seconds
+{'AlignedDim1': 'DeltaE,0,100, 201', 'AlignedDim0': '[H,H,0],-0.1,2.0,201', 'AlignedDim3': '[-H,H,0],-0.2,0.2,1', 'AlignedDim2': '[H,-H,0],-.2,0.2,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+BinMD-[Error] Error in execution of algorithm BinMD:
+BinMD-[Error] Dimension [H,H,0] was not found in the MDEventWorkspace! Cannot continue.
+MDNormDirectSC-[Error] Error in execution of algorithm MDNormDirectSC:
+MDNormDirectSC-[Error] Dimension [H,H,0] was not found in the MDEventWorkspace! Cannot continue.

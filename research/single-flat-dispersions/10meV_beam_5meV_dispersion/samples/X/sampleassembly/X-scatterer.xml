@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE scatterer>
+
+<!-- weights: absorption, scattering, transmission -->
+<homogeneous_scatterer 
+    mcweights="0, 1, 0.1"
+    max_multiplescattering_loops="3"
+    >
+  
+ <KernelContainer average="yes">
+
+  <E_vQ_Kernel 
+     E_Q="5.0" 
+     S_Q="1"
+     Emax="10*meV"
+    orientation="0.894427191,0.0,-0.4472135955,0.0,1.0,0.0,0.4472135955,0.0,0.894427191"
+    />
+    
+ </KernelContainer>
+  
+</homogeneous_scatterer>

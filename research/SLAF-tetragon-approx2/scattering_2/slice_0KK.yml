@@ -19,13 +19,13 @@ Q_projections:
  V:
   proj: 0,1,-1
   proj_name: 0,K,-K
-  min: -.3
-  max: .3
+  min: -5.0
+  max: 5.0
   N: 1
  W:
   proj: 1,0,0
   proj_name: H,0,0
-  min: -0.3
-  max: 0.3
+  min: -5.0
+  max: 5.0
   N: 1
 output: slice_0KK.nxs

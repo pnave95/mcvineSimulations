@@ -1,0 +1,1371 @@
+-90.0 work_-90.0/reduced_-90.0.nxs
+FrameworkManager-[Notice] Welcome to Mantid 3.6.100
+FrameworkManager-[Notice] Please cite: http://dx.doi.org/10.1016/j.nima.2014.07.029 and this release: http://dx.doi.org/10.5286/Software/Mantid3.6.100
+Load-[Notice] Load started
+Load-[Notice] Load successful, Duration 27.84 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.47 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.42 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.32 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.31 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.31 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.30 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.30 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.30 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.31 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.33 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.35 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.31 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.30 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.31 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.30 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.30 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.30 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.33 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.31 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.30 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.53 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.30 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.31 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.29 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.29 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.29 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.34 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.37 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.44 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.43 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.54 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.37 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.33 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.38 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.30 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.46 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.44 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.50 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.46 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.43 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.50 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.46 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.43 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.46 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.38 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.47 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.47 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.48 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.46 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.44 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.34 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.32 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.29 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.37 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.45 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.43 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.49 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.48 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.30 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.29 seconds
+CompressEvents-[Notice] CompressEvents started
+CompressEvents-[Notice] CompressEvents successful, Duration 0.29 seconds
+CompressEvents-[Notice] CompressEvents successful, Duration 22.94 seconds. Processed as a workspace group
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.03 seconds. Processed as a workspace group
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer started
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.00 seconds
+SetGoniometer-[Notice] SetGoniometer successful, Duration 0.02 seconds. Processed as a workspace group
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB started
+SetUB-[Notice] SetUB successful, Duration 0.00 seconds
+SetUB-[Notice] SetUB successful, Duration 0.02 seconds. Processed as a workspace group
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.31 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.34 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.34 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.40 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.52 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.37 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.32 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.36 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.41 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.40 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.37 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.39 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.39 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.36 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.34 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.31 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.37 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.39 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.40 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.41 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.42 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.40 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.33 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.35 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.32 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.34 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.37 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.38 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.35 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.35 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.37 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.38 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.33 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.34 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.38 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.33 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.36 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.35 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.34 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.36 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.35 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.39 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.32 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.34 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.43 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.35 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.37 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.40 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.36 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.31 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.34 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.36 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.38 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.34 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.35 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.38 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.38 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.43 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.41 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.39 seconds
+CropWorkspace-[Notice] CropWorkspace started
+CropWorkspace-[Notice] CropWorkspace successful, Duration 0.50 seconds
+CropWorkspace-[Notice] CropWorkspace successful, Duration 22.77 seconds. Processed as a workspace group
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace started
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.00 seconds
+DeleteWorkspace-[Notice] DeleteWorkspace successful, Duration 0.01 seconds. Processed as a workspace group
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 1.10 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.08 seconds
+rotation angle #0: -90.0
+CloneMDWorkspace-[Notice] CloneMDWorkspace started
+CloneMDWorkspace-[Notice] CloneMDWorkspace successful, Duration 0.00 seconds
+CloneMDWorkspace-[Notice] CloneMDWorkspace started
+CloneMDWorkspace-[Notice] CloneMDWorkspace successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.24 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.07 seconds
+rotation angle #1: -87.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.18 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.80 seconds
+rotation angle #2: -84.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.13 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.69 seconds
+rotation angle #3: -81.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.16 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.59 seconds
+rotation angle #4: -78.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.19 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.38 seconds
+rotation angle #5: -75.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.21 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.42 seconds
+rotation angle #6: -72.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.29 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.37 seconds
+rotation angle #7: -69.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.23 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.39 seconds
+rotation angle #8: -66.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.36 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.54 seconds
+rotation angle #9: -63.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.29 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.29 seconds
+rotation angle #10: -60.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.26 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.42 seconds
+rotation angle #11: -57.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.46 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.44 seconds
+rotation angle #12: -54.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.20 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.81 seconds
+rotation angle #13: -51.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.18 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.56 seconds
+rotation angle #14: -48.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.33 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.71 seconds
+rotation angle #15: -45.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.27 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.58 seconds
+rotation angle #16: -42.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.24 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.97 seconds
+rotation angle #17: -39.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.20 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.79 seconds
+rotation angle #18: -36.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.19 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.72 seconds
+rotation angle #19: -33.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.20 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.76 seconds
+rotation angle #20: -30.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.16 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.15 seconds
+rotation angle #21: -27.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.16 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.90 seconds
+rotation angle #22: -24.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.15 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 0.98 seconds
+rotation angle #23: -21.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.16 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.05 seconds
+rotation angle #24: -18.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.18 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.10 seconds
+rotation angle #25: -15.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.24 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.33 seconds
+rotation angle #26: -12.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.25 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.62 seconds
+rotation angle #27: -9.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.17 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.69 seconds
+rotation angle #28: -6.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.19 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.63 seconds
+rotation angle #29: -3.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.23 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.29 seconds
+rotation angle #30: 0.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.23 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.48 seconds
+rotation angle #31: 3.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.23 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.76 seconds
+rotation angle #32: 6.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.20 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.45 seconds
+rotation angle #33: 9.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.21 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.52 seconds
+rotation angle #34: 12.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.22 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.64 seconds
+rotation angle #35: 15.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.18 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.53 seconds
+rotation angle #36: 18.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.15 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.23 seconds
+rotation angle #37: 21.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.15 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.38 seconds
+rotation angle #38: 24.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.15 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.20 seconds
+rotation angle #39: 27.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.15 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.30 seconds
+rotation angle #40: 30.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.15 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.39 seconds
+rotation angle #41: 33.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.15 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.54 seconds
+rotation angle #42: 36.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.15 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.08 seconds
+rotation angle #43: 39.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.16 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.40 seconds
+rotation angle #44: 42.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.15 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.38 seconds
+rotation angle #45: 45.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.20 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.56 seconds
+rotation angle #46: 48.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.15 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.77 seconds
+rotation angle #47: 51.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.16 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.41 seconds
+rotation angle #48: 54.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.23 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 2.36 seconds
+rotation angle #49: 57.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.21 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 2.25 seconds
+rotation angle #50: 60.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.17 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 2.69 seconds
+rotation angle #51: 63.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.19 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 1.93 seconds
+rotation angle #52: 66.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.18 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 2.22 seconds
+rotation angle #53: 69.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.13 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 2.26 seconds
+rotation angle #54: 72.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.23 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 2.11 seconds
+rotation angle #55: 75.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.14 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 2.53 seconds
+rotation angle #56: 78.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.17 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 3.33 seconds
+rotation angle #57: 81.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.20 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 2.89 seconds
+rotation angle #58: 84.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.13 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 2.85 seconds
+rotation angle #59: 87.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+ConvertToMD-[Notice] ConvertToMD started
+ConvertToMD-[Notice] ConvertToMD successful, Duration 0.19 seconds
+{'AlignedDim1': 'DeltaE,0,51, 181', 'AlignedDim0': '[H,0,0],-2.1,0.1,201', 'AlignedDim3': '[0,0,L],-2.5,2.5,1', 'AlignedDim2': '[0,K,0],-2.5,2.5,1'}
+MDNormDirectSC-[Notice] MDNormDirectSC started
+MDNormDirectSC-[Notice] MDNormDirectSC successful, Duration 3.28 seconds
+rotation angle #60: 90.0
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+PlusMD-[Notice] PlusMD started
+PlusMD-[Notice] PlusMD successful, Duration 0.00 seconds
+RemoveWorkspaceHistory-[Notice] RemoveWorkspaceHistory started
+RemoveWorkspaceHistory-[Notice] RemoveWorkspaceHistory successful, Duration 0.00 seconds
+RemoveWorkspaceHistory-[Notice] RemoveWorkspaceHistory started
+RemoveWorkspaceHistory-[Notice] RemoveWorkspaceHistory successful, Duration 0.00 seconds
+SmoothMD-[Notice] SmoothMD started
+SmoothMD-[Notice] SmoothMD successful, Duration 0.01 seconds
+SmoothMD-[Notice] SmoothMD started
+SmoothMD-[Notice] SmoothMD successful, Duration 0.01 seconds
+DivideMD-[Notice] DivideMD started
+DivideMD-[Notice] DivideMD successful, Duration 0.01 seconds
+SaveMD-[Notice] SaveMD started
+SaveMD-[Notice] SaveMD successful, Duration 0.64 seconds
