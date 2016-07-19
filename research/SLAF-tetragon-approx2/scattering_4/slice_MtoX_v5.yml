@@ -7,20 +7,20 @@ orientation:
  v: 1,0,0
 Eaxis:
  min: 0
- max: 100
- N: 201
+ max: 50
+ N: 100
 Q_projections:
  U:
-  proj: 1,1,0
-  proj_name: H,H,0
-  min: -0.1
-  max: 2.0
-  N: 201
+  proj: 0,1,0
+  proj_name: 0,K,0
+  min: 0.0
+  max: 1.0
+  N: 80
  V:
-  proj: 1,-1,0
-  proj_name: H,-H,0
-  min: -.2
-  max: .2
+  proj: 1,0,0
+  proj_name: H,0,0
+  min: 0.8
+  max: 1.2
   N: 1
  W:
   proj: 0,0,1
@@ -28,4 +28,4 @@ Q_projections:
   min: -0.2
   max: 0.2
   N: 1
-output: slice_HH0.nxs
+output: slice_MtoX_v5.nxs

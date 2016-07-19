@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE scatterer>
+
+<!-- weights: absorption, scattering, transmission -->
+<homogeneous_scatterer 
+  mcweights="0, 1, 0.1"
+  max_multiplescattering_loops="3"
+  >
+  
+  <KernelContainer average="yes">
+    
+    <E_vQ_Kernel 
+	E_Q="pi:=3.1415926535897932;
+    alpha:=0.1; JS:=10.0; Hnorm:=0.9; a:=5; b:=5; c:=5;
+    theta:=asin(Hnorm);
+    gamma_z:=cos(c*Qz); gamma_xy:=(cos(a*Qx)+cos(b*Qy));
+    gammaBar:=(gamma_xy+alpha*gamma_z)/(2.0+alpha);
+    2.0*JS*(2.0+alpha)*sqrt((1+gammaBar)*(1-gammaBar*cos(2.0*theta)))"
+	S_Q="pi:=3.1415926535897932; a:=5; b:=5; c:=5;
+    alpha:=0.1; JS:=10.0; Hnorm:=0.9; theta:=asin(Hnorm);
+    gamma_z:=cos(c*Qz); gamma_xy:=(cos(a*Qx)+cos(b*Qy));
+    gammaBar:=(gamma_xy+alpha*gamma_z)/(2.0+alpha);
+    Aq:=2.0*JS*(2.0+alpha)*(1+gammaBar*(sin(theta))^2);
+    Eq:=2.0*JS*(2.0+alpha)*sqrt((1+gammaBar)*(1-gammaBar*cos(2.0*theta)));
+    Eeff:=max(Eq,1.5);
+    UqSquared:=(Aq+Eeff)/(2.0*Eeff); VqSquared:=(Aq-Eeff)/(2.0*Eeff);
+    Uq:=sqrt(UqSquared); Vq:=sqrt(VqSquared);
+    Sxx:=(Uq+Vq)^2; Syy:=(Uq-Vq)^2;
+    Sxoxo:=Sxx*(sin(theta))^2; Syoyo:=Syy;
+    Sxoxo+Syoyo"
+	Emax="90*meV"
+	orientation="0.894427191,0.0,-0.4472135955,0.0,1.0,0.0,0.4472135955,0.0,0.894427191"
+	/>
+    
+     <E_vQ_Kernel 
+	E_Q="pi:=3.1415926535897932; a:=5; b:=5; c:=5;
+    alpha:=0.1; JS:=10.0; Hnorm:=0.9;
+    theta:=asin(Hnorm);
+    gamma_z:=cos(c*(Qz-pi)); gamma_xy:=(cos(a*(Qx-pi))+cos(b*(Qy-pi)));
+    gammaBar:=(gamma_xy+alpha*gamma_z)/(2.0+alpha);
+    2.0*JS*(2.0+alpha)*sqrt((1+gammaBar)*(1-gammaBar*cos(2.0*theta)))"
+	S_Q="pi:=3.1415926535897932; a:=5; b:=5; c:=5;
+    alpha:=0.1; JS:=10.0; Hnorm:=0.9; theta:=asin(Hnorm);
+    gamma_z:=cos(c*(Qz-pi)); gamma_xy:=(cos(a*(Qx-pi))+cos(b*(Qy-pi)));
+    gammaBar:=(gamma_xy+alpha*gamma_z)/(2.0+alpha);
+    Aq:=2.0*JS*(2.0+alpha)*(1+gammaBar*(sin(theta))^2);
+    Eq:=2.0*JS*(2.0+alpha)*sqrt((1+gammaBar)*(1-gammaBar*cos(2.0*theta)));
+    Eeff:=max(Eq,1.5);
+    UqSquared:=(Aq+Eeff)/(2.0*Eeff); VqSquared:=(Aq-Eeff)/(2.0*Eeff);
+    Uq:=sqrt(UqSquared); Vq:=sqrt(VqSquared);
+    Sxx:=(Uq+Vq)^2; Syy:=(Uq-Vq)^2;
+    Sxx*(cos(theta))^2"
+	Emax="90*meV"
+	orientation="0.894427191,0.0,-0.4472135955,0.0,1.0,0.0,0.4472135955,0.0,0.894427191"
+	/>   
+    
+  </KernelContainer>
+  
+</homogeneous_scatterer>
