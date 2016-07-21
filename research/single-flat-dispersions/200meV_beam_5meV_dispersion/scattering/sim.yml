@@ -1,6 +1,6 @@
 
 cluster:
-  nodes: 12
+  nodes: 10
 instrument:
   name: arcs
 scatter:
