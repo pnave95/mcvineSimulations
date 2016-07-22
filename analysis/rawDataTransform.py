@@ -2,6 +2,8 @@
 # Then, we want to convert the instrument coordinates to reciprocal space coordinates based on the orientation of a crystal sample
 #   for a given rotation angle of the sample
 
+# status:  INCOMPLETE
+
 import numpy as np
 
 
