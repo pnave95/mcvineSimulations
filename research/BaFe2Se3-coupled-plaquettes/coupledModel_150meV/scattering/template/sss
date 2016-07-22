@@ -2,6 +2,7 @@
 import warnings
 warnings.simplefilter('ignore')
 import mcvine
+import mccomponents.sample.phonon.xml
 warnings.simplefilter('default')
 
 def main():
@@ -14,6 +15,4 @@ def main():
 
 if __name__ == '__main__': main()
 
-# This application was created by the following command:
-# $ mcvine-create-instrument-simulation-application -name=sssd -components=source,sample,storage,detector
 

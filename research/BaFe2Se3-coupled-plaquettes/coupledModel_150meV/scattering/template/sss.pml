@@ -1,12 +1,4 @@
 <?xml version="1.0"?>
-<!--
-! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!
-!
-! {LicenseText}
-!
-! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
--->
 
 <!DOCTYPE inventory>
 
@@ -42,20 +34,15 @@
 
 
         <component name="geometer">
-            <property name="source">((0, 0, 13.45), (0, 0, 0))</property>
-            <property name="sample">((0, 0, 13.6), (0, 0, 0))</property>
-            <property name="storage">((0, 0, 13.6), (0, 0, 0))</property>
+            <property name="source">((0, 0, -0.15), (0, 0, 0))</property>
+            <property name="sample">((0, 0, 0), (0, 0, 0))</property>
+            <property name="storage">((0, 0, 0), (0, 0, 0))</property>
         </component>
 
 
     </component>
 
 </inventory>
-
-<!-- version-->
-<!-- $Id$-->
-
-<!-- Generated automatically by Renderer on Wed Mar 30 17:23:25 2011-->
 
 <!-- End of file -->
 
