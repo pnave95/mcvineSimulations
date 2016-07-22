@@ -3,6 +3,7 @@
 **/out/scattered-neutrons
 **/iqe.nxs
 **/*.nxs
+**/*.nxspe
 
 **/out/*
 **/*.dat

@@ -1,0 +1,1 @@
+../../../../mantid_scripts/modified_reduce2nxspe_batch.py

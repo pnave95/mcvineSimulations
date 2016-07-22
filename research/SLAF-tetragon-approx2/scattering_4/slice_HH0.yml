@@ -23,8 +23,8 @@ Q_projections:
   max: .2
   N: 1
  W:
-  proj: -1,1,0
-  proj_name: -H,H,0
+  proj: 0,0,1
+  proj_name: 0,0,L
   min: -0.2
   max: 0.2
   N: 1
