@@ -5,6 +5,6 @@
 **/*.nxs
 **/*.nxspe
 
-**/out/*
+**/out/neutrons
 **/*.dat
 **/*rank*

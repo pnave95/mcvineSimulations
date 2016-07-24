@@ -38,7 +38,7 @@ def rawInfo(ifile, Ei):
 
 
 	# Now open an output file
-	outfile = stripped_input + ".csv"
+	outfile = stripped_input + "-QE.csv"
 	out = open(outfile, 'w+')  # overwrite file if exists
 	# debugger:
 	#out.write("Success!")
@@ -128,11 +128,11 @@ def rawInfo(ifile, Ei):
 			w = weights[e]
 			
 			# perform computations of kinetic variables
-			v_i = 
+			#v_i = 
 
 			# Now record this information to output file
 			#info = str(tof) + "," + str(d) + "," + str(polar) + "," + str(azimuth) + "," + str(w) + "\n"
-			out.write(info)
+			#out.write(info)
 		
 			
 			
