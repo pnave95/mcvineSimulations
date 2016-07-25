@@ -49,3 +49,5 @@ while(currentAngle <= maxAngle):
 	newFileName = "results-" + stringAngle + ".csv"
 	data.to_csv(newFileName)
 
+	# increment angle
+	currentAngle += increment
