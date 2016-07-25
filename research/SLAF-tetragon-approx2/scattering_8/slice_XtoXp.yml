@@ -1,0 +1,31 @@
+
+angles: -90,90.1,1.0
+filename_pattern: work_%(angle)s/reduced_%(angle)s.nxs
+lattice: 5., 5., 5., 90, 90, 90
+orientation:
+ u: 1, 0, 2
+ v: 1,0,0
+Eaxis:
+ min: 0
+ max: 50
+ N: 100
+Q_projections:
+ U:
+  proj: 1,-1,0
+  proj_name: H,-H,0
+  min: -2.0
+  max: 2.0
+  N: 200
+ V:
+  proj: 1,1,0
+  proj_name: H,H,0
+  min: 0.15
+  max: 0.35
+  N: 1
+ W:
+  proj: 0,0,1
+  proj_name: 0,0,L
+  min: -0.1
+  max: 0.1
+  N: 1
+output: slice_XtoXp.nxs
