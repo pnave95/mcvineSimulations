@@ -8,7 +8,26 @@ import numpy as np
 import h5py as hf
 import sys
 
-def rawInfo(ifile, Ei):
+def rawInfo(ifile, E_i):
+	
+	# mass of neutron (kg)
+	power = 0 - 27
+	m = 1.674929*(10**power)
+	
+	# Planck's constant
+	power = 0 - 34
+	hBar = 6.62607*(10**power)	
+
+	# convert from meV to Joules
+	power = 0 - 22
+	Ei = E_i*1.6021766*(10**power)
+
+	# compute initial velocity and momentum
+	v_i = np.sqrt(2.0*Ei / m)
+	p_i = m*v_i
+	print "v_i = " + str(v_i) + " m/s"
+	print "Ei = " + str(Ei) + " Joules"
+
 	# get sim-#.nxs file name from first terminal argument
 	#ifile = sys.argv[1]
 
@@ -20,7 +39,15 @@ def rawInfo(ifile, Ei):
 		print name
 	#f.visit(printname)
 
-
+	# compute time for travel from beam monitor 1 and the sample
+	L_1s_np = np.array(f.get('entry/monitor1/distance'))
+	L_1s = np.abs(L_1s_np[0])
+	t_1s = L_1s / v_i
+	# OR, maybe tof is from T0 chopper:
+	L_T0_to_sample = 4.83 #meters, TODO: find more accurate number
+	t_T0s = L_T0_to_sample / v_i
+	
+	
 	# strip angle out of input file name:
 
 	# input is sim-#.nxs; so ifile[-4] should be the period before nxs
@@ -67,7 +94,7 @@ def rawInfo(ifile, Ei):
 		tzHDF = f.get("entry/" + bankName + "_events/event_time_zero")
 		tz = np.array(tzHDF)
 		# now rescale from seconds to microseconds
-		tz *= 10**(-6)
+		tz *= 10**(6)
 		NumTz = len(tz)
 		#print NumTz
 
@@ -128,11 +155,38 @@ def rawInfo(ifile, Ei):
 			w = weights[e]
 			
 			# perform computations of kinetic variables
-			#v_i = 
+			
+			# time from sample to pixel
+			#t_sp = (tof/(10**6)) - t_1s
+			#t_sp = tof / (10**6)   #this is true if and only if tof is the time from the sample to the pixel
+			t_sp = (tof / (10**6)) - t_T0s
+			# final velocity
+			v_f = d / t_sp
+			# final energy and scalar momentum
+			p_f = m*v_f
+			#E_f = (p_f**2)/(2.0*m)
+			E_f = 0.5*m*(v_f**2)
+			# energy transfer TO the material
+			E = Ei - E_f
+			# energy in meV
+			EmeV = E*6.2415093419*(10**21)
+			# get Cartesian unit vector towards pixel
+			z = np.cos(polar)
+			xy = np.sin(polar)
+			x = xy*np.cos(azimuth)
+			y = xy*np.sin(azimuth)
+			# get vector momentum change
+			pf_x = x*p_f
+			pf_y = y*p_f
+			pf_z = z*p_f - p_i
+			# convert to wavevector change
+			Qx = pf_x / hBar
+			Qy = pf_y / hBar
+			Qz = pf_z / hBar
 
 			# Now record this information to output file
-			#info = str(tof) + "," + str(d) + "," + str(polar) + "," + str(azimuth) + "," + str(w) + "\n"
-			#out.write(info)
+			info = str(Qx) + "," + str(Qy) + "," + str(Qz) + "," + str(EmeV) + "," + str(w) + "\n"
+			out.write(info)
 		
 			
 			
@@ -147,4 +201,11 @@ def rawInfo(ifile, Ei):
 if __name__ == '__main__':
 	# getSingleAngleRaw.py executed as script 
 	# do something
-	rawInfo(ifile)	
+	ifile = sys.argv[1] # path to sim-#.nxs file
+	Ei = float(sys.argv[2]) # incident energy in meV
+	
+
+	rawInfo(ifile,Ei)
+
+
+	
