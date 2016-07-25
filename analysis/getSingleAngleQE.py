@@ -1,6 +1,8 @@
-# This program is designed to read a given sim-#.nxs file generated from a single slice (angle) of crystal data and convert from time offset, t_zero, and pixel location maps to tof (microseconds), distance (m), polar angle (rad), azimuthal angle (rad), and weight -- and to save those values to a standard csv file
+# This program is designed to read a given sim-#.nxs file generated from a single slice (angle) of crystal data and convert from time offset, t_zero, and pixel location maps to tof (microseconds), distance (m), polar angle (rad), azimuthal angle (rad), and weight AND then to vector Q (instrument coordinates) and E -- and to save those values to a standard csv file
 
-# current status: INCOMPLETE
+# current status: POSSIBLY WORKING
+
+# Note:  Q is given in inverse angstroms, E is given in meV
 
 # Notes:  h5py available by default on SNS cluster, but not with miniconda2, so don't source lj7/.use-miniconda2 before running this program
 
@@ -14,9 +16,11 @@ def rawInfo(ifile, E_i):
 	power = 0 - 27
 	m = 1.674929*(10**power)
 	
-	# Planck's constant
+	# Reduced planck's constant, also scaled to give inverse angstroms when multiplied by momentum
 	power = 0 - 34
-	hBar = 6.62607*(10**power)	
+	hBar = 1.0545718*(10**power)
+	power_scaled = 0 - 24
+	hBar_scaled = 1.0545718*(10**power_scaled)	
 
 	# convert from meV to Joules
 	power = 0 - 22
@@ -39,14 +43,10 @@ def rawInfo(ifile, E_i):
 		print name
 	#f.visit(printname)
 
-	# compute time for travel from beam monitor 1 and the sample
-	L_1s_np = np.array(f.get('entry/monitor1/distance'))
-	L_1s = np.abs(L_1s_np[0])
-	t_1s = L_1s / v_i
-	# OR, maybe tof is from T0 chopper:
-	L_T0_to_sample = 4.83 #meters, TODO: find more accurate number
-	t_T0s = L_T0_to_sample / v_i
-	
+	# compute time for travel from moderator to sample
+	L_mod2sample = 13.60
+	t_ms = L_mod2sample / v_i	
+
 	
 	# strip angle out of input file name:
 
@@ -67,17 +67,10 @@ def rawInfo(ifile, E_i):
 	# Now open an output file
 	outfile = stripped_input + "-QE.csv"
 	out = open(outfile, 'w+')  # overwrite file if exists
-	# debugger:
-	#out.write("Success!")
 	out.write("Qx.Qy,Qz,E,weight\n")
 
 
 	# Perform Data conversion from tof,pixels to vQ,E
-
-	# get monitor 1 distance from sample
-	m1_distHDF = f.get("entry/monitor1/data")
-	m1_distNP = np.array(m1_distHDF)
-	m1_dist = np.abs(m1_distNP[0])
 
 	# iterate through each detector bank (1-115)
 	for bank in range(115):
@@ -157,9 +150,7 @@ def rawInfo(ifile, E_i):
 			# perform computations of kinetic variables
 			
 			# time from sample to pixel
-			#t_sp = (tof/(10**6)) - t_1s
-			#t_sp = tof / (10**6)   #this is true if and only if tof is the time from the sample to the pixel
-			t_sp = (tof / (10**6)) - t_T0s
+			t_sp = (tof / (10**6)) - t_ms
 			# final velocity
 			v_f = d / t_sp
 			# final energy and scalar momentum
@@ -180,9 +171,9 @@ def rawInfo(ifile, E_i):
 			pf_y = y*p_f
 			pf_z = z*p_f - p_i
 			# convert to wavevector change
-			Qx = pf_x / hBar
-			Qy = pf_y / hBar
-			Qz = pf_z / hBar
+			Qx = pf_x / hBar_scaled
+			Qy = pf_y / hBar_scaled
+			Qz = pf_z / hBar_scaled
 
 			# Now record this information to output file
 			info = str(Qx) + "," + str(Qy) + "," + str(Qz) + "," + str(EmeV) + "," + str(w) + "\n"
