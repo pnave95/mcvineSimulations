@@ -23,10 +23,38 @@ N = len(energy)
 mean = sum(energy) / N
 E_min = min(energy)
 E_max = max(energy)
-print "min tof = " + str(E_min)
-print "max tof = " + str(E_max)
-print "mean tof = " + str(mean)
+print "min Ei = " + str(E_min)
+print "max Ei = " + str(E_max)
+print "mean Ei = " + str(mean)
 
-# try plotting tof
-#plt.plot(tof)
-#plt.savefig("tof.png")
+#print(energy)
+
+# chop off all energies below or above certain thresholds
+guess = 150.0
+low = 130.0
+high = 170.0
+num = 0
+for i in range(N):
+	if energy[i] < low or energy[i] > high:
+		num += 1
+
+print "num neutrons in range = " + str(num)
+
+E = np.zeros(num)
+#print len(E)
+count = 0
+E_mean = 0.0
+for i in range(N):
+	if energy[i] < low or energy[i] > high:
+		E[count] = energy[i]
+		count += 1
+		E_mean += energy[i]
+#print count
+E_mean = E_mean / num
+print "E_mean = " + str(E_mean)
+
+
+
+# try plotting energy
+plt.plot(E)
+plt.savefig("E_inRange.png")
