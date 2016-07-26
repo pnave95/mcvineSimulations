@@ -38,6 +38,8 @@ def results(ifile, E_i):
 	# compute initial velocity and momentum
 	v_i = np.sqrt(2.0*Ei / m)
 	p_i = m*v_i
+	k_i = p_i / hBar_scaled
+	print "k_i = " + str(k_i)
 	print "v_i = " + str(v_i) + " m/s"
 	print "Ei = " + str(Ei) + " Joules"
 
@@ -74,10 +76,8 @@ def results(ifile, E_i):
 
 
 	# Now open an output file
-	outfile = stripped_input + "-results.h5"  # %d is so that the hdf5 file created for output can use the 'family' storage driver, which will force the file to be stored as several smaller chunks; this is to try to avoid problems uploading small files
-	#out = open(outfile, 'w+')  # overwrite file if exists
-	#out.write("H.K,L,E,Etrue,Eerror,ErrorSquared,weight,Qx,Qy,Qz,scalarQ,polar,azimuthal\n")
-	out = hf.File(outfile, 'w')  # create new hdf5 file to hold all data for the experiment in an organized fashion
+	outfile = stripped_input + "-results.h5"  
+	out = hf.File(outfile, 'w')  # create new hdf5 file to hold all data for the angle slice in an organized fashion
 	# Create groups to store data
 	data = out.create_group("data")
 
@@ -119,8 +119,10 @@ def results(ifile, E_i):
 	b3 = 2.0*np.pi*np.cross(a1, a2) / np.dot(a3, np.cross(a1, a2))
 	u = np.matrix([1, 0, 2])
 	v = np.matrix([1, 0, 0])
+	#print b1
 	# Must account for rotation by angle of this slice
-	theta = float(angle)*2*np.pi/360.0
+	theta = float(angle)*-2*np.pi/360.0
+	#theta *= -1.0
 	#ez = b1 + 2*b3; ez /= np.linalg.norm(ez)
 	#ex1 = b1
 	#ey = np.cross(ez, ex1); ey /= np.linalg.norm(ey)
@@ -130,6 +132,8 @@ def results(ifile, E_i):
 	R2 = [0.0, 1.0, 0.0]
 	R3 = [np.sin(theta), 0.0, np.cos(theta)]
 	R = np.matrix([R1, R2, R3])
+	print "R = "
+	print R
 	# rotate u and v
 	u = R*u.T
 	v = R*v.T
@@ -138,6 +142,25 @@ def results(ifile, E_i):
 	#ex1 = b1*v[0] + b2*v[1] + b3*v[2]
 	#ey = np.cross(ez, ex1); ey /= np.linalg.norm(ey)
 	#ex = np.cross(ey, ez)
+	u1 = np.array(u)
+	v1 = np.array(v)
+	# make unit vectors 
+	#ez = b1*u1[0] + b3*u1[2]; ez /= np.linalg.norm(ez)
+	ez = np.array([1.0, 0.0, 2.0]); ez /= np.linalg.norm(ez)
+	#ex1 = b1*v1[0] + b3*v1[2]
+	ex1 = np.array([1.0, 0.0, 0.0])
+	ey = np.cross(ez, ex1); ey /= np.linalg.norm(ey)
+	ex = np.cross(ey, ez)
+	# construct matrix of ex,ey,ez unit vectors (in terms of H,K,L)
+	M = np.matrix([ex, ey, ez])
+	M = M.T
+	print "M = "
+	print M
+	Minverse = np.linalg.inv(M)
+	print Minverse
+	Minv = np.array(Minverse)
+	#print M
+
 	# get H,K,L
 	b1_mat = np.matrix(b1)
 	b2_mat = np.matrix(b2)
@@ -145,6 +168,7 @@ def results(ifile, E_i):
 	_H = np.array(R*b1_mat.T)
 	_K = np.array(R*b2_mat.T)
 	_L = np.array(R*b3_mat.T)  # these are rotated unit vectors for H, K, L
+	#_H_ = 
 	# Now make normalized unit vectors for H, K, L and magnitudes
 	magH = np.linalg.norm(_H)
 	magK = np.linalg.norm(_K)
@@ -242,7 +266,7 @@ def results(ifile, E_i):
 			# perform computations of kinetic variables
 			
 			# time from sample to pixel
-			t_sp = (tof / (10**6)) - t_ms
+			t_sp = (tof / (10**6)) - t_ms #- (5.0 / (10**6))
 			# final velocity
 			v_f = d / t_sp
 			# final energy and scalar momentum
@@ -268,11 +292,22 @@ def results(ifile, E_i):
 			Qz = pf_z / hBar_scaled
 
 			# convert to H,K,L
-			#Q = np.matrix([Qx, Qy, Qz])
+			Qmat = np.matrix([Qx, Qy, Qz])
+			HKLunit = Minv*Qmat.T
 			Q = [Qx, Qy, Qz]
-			H = np.vdot(eH,Q) / magH
-			K = np.vdot(eK,Q) / magK
-			L = np.vdot(eL,Q) / magL
+
+
+			# Try New Method:  first rotate Qx,y,z into proper orientation (Cartesian coordinate system of crystal)
+			#Qmat = R*Qmat.T
+			# Now, Qy is in K direction (as it was before also)
+			# 
+
+			#H = np.vdot(eH,Q) / magH
+			H = HKLunit[0][0] *a / (2.0*np.pi)
+			#H = (Minv[0][0] * Qx*a - Minv[0][2] * Qz*c) / 2.0*np.pi
+			#K = np.vdot(eK,Q) / magK
+			K = Qy*b / (2.0*np.pi)
+			#L = np.vdot(eL,Q) / magL
 			
 			# Compute true energy and errors
 			Etrue = E_Q(H, K)
@@ -294,7 +329,7 @@ def results(ifile, E_i):
 			Earray[Ncounter][3] = error2
 			HKLarray[Ncounter][0] = H
 			HKLarray[Ncounter][1] = K
-			HKLarray[Ncounter][2] = L
+			#HKLarray[Ncounter][2] = L
 			WeightsArray[Ncounter][0] = w
 			#info = str(H) + "," + str(K) + "," + str(L) + "," + str(EmeV) + "," +str(Etrue) + "," + str(error) + "," + str(error2) + "," + str(w) + "," + str(Qx) + "," + str(Qy) + "," + str(Qz) + "," + str(scalarQ) + "," + str(polar) + "," + str(azimuth) + "\n"
 			Ncounter += 1			
