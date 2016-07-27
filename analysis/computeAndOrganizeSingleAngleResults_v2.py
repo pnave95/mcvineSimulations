@@ -365,9 +365,14 @@ def results(ifile, E_i):
 			
 			# Compute true energy and errors
 			Etrue = E_Q(H, K)
-			EtruePlus = E_Q(H+0.1, K+0.1)
-			EtrueMinus = E_Q(H-0.1, K-0.1)
+			#EtruePlus = E_Q(H+0.1, K+0.1)
+			#EtrueMinus = E_Q(H-0.1, K-0.1)
+			#possibleErrors = [(EmeV - Etrue), (EmeV - 0.0)]
+			#possibleErrorMagnitudes = np.abs(possibleErrors)
+			#error = np.amin(possible
 			error = EmeV - Etrue
+			if abs(EmeV - 0.0) < abs(error) :
+				error = EmeV - 0.0
 			error2 = error**2
 			# compute magnitude of Q
 			scalarQ = np.sqrt(Qx**2 + Qy**2 + Qz**2 )
