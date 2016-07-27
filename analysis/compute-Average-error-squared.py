@@ -6,7 +6,7 @@ import h5py as hf
 
 
 # read in file
-ifile = "sim-0.0-results.h5"
+ifile = "sim-0.0-results-flat.h5"
 f = hf.File(ifile, "r")
 
 EarrayHDF = f.get('E')
