@@ -6,8 +6,11 @@ import sys
 
 
 def computeErrors(ifile):
+
+	# debugger:
+	#print "ifile = " + ifile
+	
 	# read in file
-	#ifile = "sim--60.0-results-v6.h5"
 	f = hf.File(ifile, "r")
 
 	EarrayHDF = f.get('data/E')
