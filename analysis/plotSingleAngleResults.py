@@ -13,21 +13,21 @@ ifile = sys.argv[1]
 f = hf.File(ifile, 'r')
 
 # get E, H, K
-E_hdf = f.get('E')
-HKL_hdf = f.get('HKL')
+E_hdf = f.get('data/E')
+HKL_hdf = f.get('data/HKL')
 
 # convert to numpy arrays
 E_all = np.array(E_hdf)
 HKL = np.array(HKL_hdf)
-E = E_all[10000:15000,0]
+E = E_all[:5000,0]
 E = np.array(E)
 print "Shape of E = " + str(E.shape)
 
 print "HKL.shape = " + str(HKL.shape)
-H = HKL[10000:15000,0]
+H = HKL[:5000,0]
 H = np.array(H)
 print "shape of H = " + str(H.shape)
-K = HKL[10000:15000,1]
+K = HKL[:5000,1]
 K = np.array(K)
 print "shape of K = " + str(K.shape)
 
