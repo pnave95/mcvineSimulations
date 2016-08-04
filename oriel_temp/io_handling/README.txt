@@ -1,0 +1,1 @@
+This directory will hold scripts for handling files and directories.  For example, scripts for loading hdf5 files into numpy arrays, saving numpy arrays to hdf5 files, retrieving multiple files from a directory, creating directories to save files to, etc are all scripts that should be placed here once created.
