@@ -41,7 +41,7 @@ def reduce_single_angle(ifile):
 
 
 	# Now open an output file
-	outfile = "angle_" + angle + "-raw-reduced.h5"  
+	outfile = "angle_" + angle + "_.h5"  
 	out = hf.File(outfile, 'w')  # create new hdf5 file to hold all data for the angle slice in an organized fashion
 
 	# Create group to store data
@@ -200,29 +200,48 @@ def reduce_single_angle(ifile):
 	return outfile
 
 
-
-def reduce_all_angles(minAngle, maxAngle, incrementAngle, dirpath):
+'''
+Description:
+	Summary:
+		This function records the current directory, changes into a specified "recording directory", creates a new subdirectory named "raw-spherical-data", changes into that subdirectory, then systematically processes the simulation data of the range of angles specified within the scattering directory (dirpath), saving the processed data to new hdf5 files, and finally changes back to the original starting directory
+	Arguments:
+		recording_dir (string):  directory where all reduced data will be stored
+		
+		minAngle, maxAngle (floats):  minimum and maximum angles that were measured
+		
+		incrementAngle (float):  angular change between successive measurements
+		
+		dirpath (string):  the scattering directory where all the "work_#/sim-#.nxs" files can be found
+	
+	Returns:  0
+'''
+def reduce_all_angles(recording_dir, minAngle, maxAngle, incrementAngle, dirpath):
 	#import os.path
 	import os
 	import glob
 
-	# change up one directory
-	os.chdir("..")
+	# record current directory
+	current_dir = os.getcwd()
 
-	# handle cases of dirpath with or without trailing slash
+	# change into recording_dir
+	os.chdir(recording_dir)
+
+	# handle case of recording_dir with or without trailing slash
+	if recording_dir[-1] != "/":
+		recording_dir[-1] += "/"
+
+	# create a subdirectory to hold these preliminary reduced data files (if it already exists, then erase old data files inside);  change into this new subdirectory
+	data_dir  = recording_dir + "raw-spherical-data"
+	if os.path.isdir(data_dir) == False:
+		os.mkdir(data_dir)
+		os.chdir(data_dir)
+	else:
+		os.chdir(data_dir)
+		map(os.remove, glob.glob("*h5"))
+
+	# now handle cases of dirpath with or without trailing slash
 	if dirpath[-1] != "/":
 		dirpath += "/"
-
-	# create directory (remove old files first if the directory already exists)
-	#current_dir = os.getcwd()
-	results_dir = "data-tof-and-spherical-coordinates"
-	if os.path.isdir(results_dir):
-		os.chdir(results_dir)
-		# delete all old files in here
-		map(os.remove, glob.glob("*h5"))
-	else:
-		os.mkdir(results_dir)
-		os.chdir(results_dir)
 
 	# iterate through all angles which were part of the experiment
 	angle = minAngle
@@ -238,8 +257,8 @@ def reduce_all_angles(minAngle, maxAngle, incrementAngle, dirpath):
 
 		angle += incrementAngle
 
-	# change back to parent directory (Note: this is NOT the original directory)
-	os.chdir("..")
+	# change back to original directory
+	os.chdir(current_dir)
 
 	return 0
 
@@ -257,7 +276,9 @@ if __name__ == '__main__':
 
 	start = time.time()
 
-	path = sys.argv[1] # path to sim-#.nxs file
+	scattering_path = sys.argv[1] # path to scattering directory
+	results_path = sys.argv[2]
+
 
 	minAngle = -90.0
 	maxAngle = 90.0
@@ -266,7 +287,7 @@ if __name__ == '__main__':
 	# perform data reduction and computation
 	#outfile = reduce_single_angle(ifile)
 
-	success = reduce_all_angles(minAngle, maxAngle, incrementAngle, path)
+	success = reduce_all_angles(results_path, minAngle, maxAngle, incrementAngle, scattering_path)
 
 	end = time.time()
 
