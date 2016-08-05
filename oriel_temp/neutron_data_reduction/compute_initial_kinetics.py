@@ -25,7 +25,11 @@ def centerOfMassIntensity(monitor):
 	return com
 
 #  This function expects a path to the 'out' directory where the monitor energy-intensity hdf5 files are stored (or other directory if the files have been moved)
-def computeInitialKinetics(pathToOutDirectory):
+def computeInitialKinetics(pathToOutDirectory, debug):
+
+	if debug == 1:
+		print ""
+		print "(function:  compute_initial_kinetics.computeInitialKinetics  )"
 	
 	# get monitors 1 and 2
 	if pathToOutDirectory[-1] != "/":
@@ -74,7 +78,7 @@ def convert_Joules_to_meV(E):
 if __name__ == '__main__':
 
 	outDirectory = sys.argv[1]
-	Ei, pi, vi = computeInitialKinetics(outDirectory)
+	Ei, pi, vi = computeInitialKinetics(outDirectory, 1)
 	E = convert_Joules_to_meV(Ei)
 
 	print "Ei = " + str(E) + " meV"

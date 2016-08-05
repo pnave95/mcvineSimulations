@@ -79,6 +79,11 @@ def record_instrument_cartesian_for_single_angle(coordinates, angle, debug=0):
 
 
 def record_instrument_cartesian_all_angles(recording_dir, minAngle, maxAngle, incrementAngle, debug=0):
+
+	if debug == 1:
+		print ""
+		print "(function:  compute_instrument_coordinates.record_instrument_cartesian_all_angles)"
+
 	import os
 	import glob
 
@@ -132,6 +137,8 @@ def record_instrument_cartesian_all_angles(recording_dir, minAngle, maxAngle, in
 
 	# return to original directory
 	os.chdir(current_dir)
+
+	return 0
 
 
 

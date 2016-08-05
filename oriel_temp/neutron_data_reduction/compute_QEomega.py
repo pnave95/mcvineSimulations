@@ -97,7 +97,7 @@ def reduce_numpy_array(spherical_arr, tof_arr, initials):
 
 
 
-def record_QEomega(QEomega, angle, debug=0):
+def record_QEomega(QEomega, angle, Ei, debug=0):
 
 	outfile = "angle_" + str(angle) + "_.h5"
 
@@ -112,6 +112,10 @@ def record_QEomega(QEomega, angle, debug=0):
 	dataQEomega.attrs['columns'] = "Qx, Qy, Qz, |vQ|, E (meV), omega"
 	dataQEomega.attrs['units'] = "all Q quantities are in inverse angstroms.  omega is in the corresponding 10^-10 inverse seconds.  E is in meV to conform to the usual standard in neutron scattering."
 
+	# record incident energy
+	dataEi = out.create_dataset("data/Ei", data=np.array([Ei]))
+	dataEi.attrs['columns'] = "incident energy" 
+
 	return outfile
 
 
@@ -121,6 +125,11 @@ Description:
 		outDir (string):  the path of the "out" directory produced by a MCViNE beam simulation
 '''
 def reduce_all(recording_dir, outDir, minAngle, maxAngle, incrementAngle, debug=0):
+
+	if debug == 1:
+		print ""
+		print "(function:  compute_QEomega.reduce_all  )"
+
 	import os
 	import glob
 
@@ -148,7 +157,8 @@ def reduce_all(recording_dir, outDir, minAngle, maxAngle, incrementAngle, debug=
 
 	# compute initial energy, momentum, velocity
 	import compute_initial_kinetics
-	Epv = compute_initial_kinetics.computeInitialKinetics(outDir)
+	Epv = compute_initial_kinetics.computeInitialKinetics(outDir, debug)
+	Ei = compute_initial_kinetics.convert_Joules_to_meV(Epv[0])
 
 	# now iterate through all angles (and thus through all files)
 	angle = minAngle
@@ -167,7 +177,7 @@ def reduce_all(recording_dir, outDir, minAngle, maxAngle, incrementAngle, debug=
 			data = reduce_numpy_array(spherical, tof, Epv)
 
 			# record computed data to a new hdf5 file
-			newfile = record_QEomega(data, angle, debug=debug)
+			newfile = record_QEomega(data, angle, Ei, debug=debug)
 		else:
 			if debug==1:
 				print "Error!  Non-existent file path: " + filepath
@@ -180,6 +190,8 @@ def reduce_all(recording_dir, outDir, minAngle, maxAngle, incrementAngle, debug=
 
 	# return to original directory
 	os.chdir(current_dir)
+
+	return 0
 
 
 

@@ -136,6 +136,11 @@ def record_HKL(HKL, angle, debug=0):
 
 
 def reduce_all(recording_dir, lattice_param_vectors, uList, vList, minAngle, maxAngle, incrementAngle, debug=0):
+
+	if debug == 1:
+		print ""
+		print "(function:  compute_HKL.reduce_all  )"
+
 	import os
 	import glob
 
@@ -191,6 +196,8 @@ def reduce_all(recording_dir, lattice_param_vectors, uList, vList, minAngle, max
 
 	# return to original directory
 	os.chdir(current_dir)
+
+	return 0
 
 
 

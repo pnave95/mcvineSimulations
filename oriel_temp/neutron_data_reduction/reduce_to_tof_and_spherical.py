@@ -215,8 +215,12 @@ Description:
 	
 	Returns:  0
 '''
-def reduce_all_angles(recording_dir, minAngle, maxAngle, incrementAngle, dirpath):
+def reduce_all_angles(recording_dir, minAngle, maxAngle, incrementAngle, dirpath, debug=0):
 	#import os.path
+	if debug == 1:
+		print ""
+		print "(function:  reduce_to_tof_and_spherical.reduce_all_angles)"
+
 	import os
 	import glob
 
@@ -284,10 +288,12 @@ if __name__ == '__main__':
 	maxAngle = 90.0
 	incrementAngle = 3.0
 
+	debug=1
+
 	# perform data reduction and computation
 	#outfile = reduce_single_angle(ifile)
 
-	success = reduce_all_angles(results_path, minAngle, maxAngle, incrementAngle, scattering_path)
+	success = reduce_all_angles(results_path, minAngle, maxAngle, incrementAngle, scattering_path, debug)
 
 	end = time.time()
 
