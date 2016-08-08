@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE scatterer>
+
+<!-- weights: absorption, scattering, transmission -->
+<homogeneous_scatterer 
+  mcweights="0, 1, 0.1"
+  max_multiplescattering_loops="3"
+  >
+  
+  <KernelContainer average="yes">
+
+
+    <!-- a simple kernel for elastic scattering. more realistic kernel exists. -->
+    <E_Q_Kernel 
+	E_Q="1" 
+	S_Q="1"
+	Qmin="0./angstrom"
+	Qmax="16./angstrom"
+    weight=".05"
+	/>
+
+
+    <!-- delta function kernel for resolution calculation
+      Q: Q vector
+      E: energy transfer (unit: meV)
+      dE: allowed deviation of energy transfer (unit: meV)
+      orientation: flattened rotation matrix M. M dot Q_crystal = Q_instrument
+     -->
+    <ConstantvQEKernel
+        momentum-transfer="-6.1031055035,-3.05155275175,3.05155275175"
+        energy-transfer="40.0*meV"
+        dE="0.5*meV"
+        orientation="0.816496580928,0.408248290464,-0.408248290464,0.0,-0.707106781187,-0.707106781187,-0.57735026919,0.57735026919,-0.57735026919"
+        weight="1.0"
+        />
+
+    
+  </KernelContainer>
+  
+</homogeneous_scatterer>

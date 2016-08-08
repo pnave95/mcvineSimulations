@@ -1,0 +1,4 @@
+ln -s ../../beam
+ln -s ../../sampleassembly
+SAMPLE_ANGLE=44.3746789211 time ./scatter >log.scatter 2>&1
+time ./create-nxs >log.create-nxs 2>&1
