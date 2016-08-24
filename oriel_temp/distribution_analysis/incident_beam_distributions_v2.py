@@ -64,13 +64,72 @@ def convolution_1D(params, final_length, debug=0):
 	Z_prob_list_sorted = [y for (x,y) in sorted(Z, key=lambda pair: pair[0])]
 
 	if debug == 1:
-		print "Z length should be len(X) * len(Y) = L1 + L2 = " + str(L1 * L2)
+		print "Z length should be len(X) * len(Y) = L1 * L2 = " + str(L1 * L2)
 		print "should = len(Z_prob_list_sorted) = len(Z_bins_list_sorted) = " + str(len(Z_prob_list_sorted)) + " = " + str(len(Z_bins_list_sorted))
 
 	# now, combine bins to reduce the total number of bins to the same number of bins as L1
 	# TODO:  make this more flexible to take # bins desired as an argument; also, do preprocessing to combine any identical bins that may exist
-	reduced_Z_bins = np.zeros(L1)
-	reduced_Z_prob = np.zeros(L1)
+	#reduced_Z_bins = np.zeros(L1)
+	reduced_Z_bins = np.zeros(final_length)
+	#reduced_Z_prob = np.zeros(L1)
+	reduced_Z_prob = np.zeros(final_length)
+
+	# check if Z is already shorter than "final_length"
+	# if len(Z_bins_list_sorted) <= final_length:
+	# 	return [Z_bins_list_sorted, Z_prob_list_sorted]
+	# # otherwise, continue:
+
+	# # numBins = [mostBins, lastBin] is an array with two integers.  'mostBins' is the number of bins to combine into each new bin when shortening the array; however, lastBin contains the integer number of bins in the last new bin (lastBin = mostBins iff N%final_length == 0)
+	# mostBins = 0
+	# lastBin = 0
+	# numBins = [mostBins, lastBin]
+
+	# # determine total number of points in the convolution
+	# N = len(Z_bins_list_sorted)
+
+	# # divide N by the desired length of the array
+	# if N%final_length == 0:
+	# 	bins = int(N / final_length)
+	# 	numBins[0] = bins
+	# 	numBins[1] = bins
+	# else:
+	# 	mostBins = int(np.floor(N / (final_length)))
+	# 	lastBin = N % final_length
+	# 	numBins[0] = mostBins
+	# 	numBins[1] = lastBin
+
+
+	# for i in range(final_length - 1): # iterate through all but last new bins
+	# 	total_prob = 0.0
+	# 	com = 0.0 					# center of "mass" (probability)
+	# 	for j in range(numBins[0]): # iterate through each old bin in each new bin
+	# 		index = i*numBins[0] + j
+	# 		com += Z_bins_list_sorted[index] * Z_prob_list_sorted[index]
+	# 		total_prob += Z_prob_list_sorted[index]
+	# 	if total_prob == 0.0:
+	# 		com = Z_bins_list_sorted[i*numBins[0] + numBins[0] - 1] - Z_bins_list_sorted[i*numBins[0]]
+	# 	else:
+	# 		com /= total_prob
+	# 	reduced_Z_bins[i] = com
+	# 	reduced_Z_prob[i] = total_prob
+	# # Now, iterate through the last old bins to be combined into the last new bin
+	# total_prob = 0.0
+	# com = 0.0
+	# for x in range(numBins[1]):
+	# 	index = (final_length - 1)*numBins[0]  + x*numBins[1]
+	# 	com += Z_bins_list_sorted[index] * Z_prob_list_sorted[index]
+	# 	total_prob += Z_prob_list_sorted[index]
+	# if total_prob == 0.0:
+	# 	com = Z_bins_list_sorted[ final_length*numBins[0] - 1] - Z_bins_list_sorted[(final_length - 1)*numBins[0]]
+	# else:
+	# 	com /= total_prob
+	# reduced_Z_bins[-1] = com
+	# reduced_Z_prob[-1] = total_prob
+
+
+
+
+
 	for i in range(L1):
 		total_prob = 0.0
 		com = 0.0			# center of "mass" (probability)
