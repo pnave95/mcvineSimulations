@@ -1,0 +1,24 @@
+FrameworkManager-[Notice] Welcome to Mantid 3.7.0
+FrameworkManager-[Notice] Please cite: http://dx.doi.org/10.1016/j.nima.2014.07.029 and this release: http://dx.doi.org/10.5286/Software/Mantid3.7
+DownloadInstrument-[Notice] Downloading 1 file from the instrument repository
+* working on  work_44.3746789211/sim_44.3746789211.nxs
+Load-[Notice] Load started
+Load-[Notice] Load successful, Duration 2.35 seconds
+DgsReduction-[Notice] DgsReduction started
+DgsConvertToEnergyTransfer-[Notice] Starting DgsConvertToEnergyTransfer
+DgsConvertToEnergyTransfer-[Notice] Processing for SNS
+DgsConvertToEnergyTransfer-[Notice] Trying to determine file name
+DgsConvertToEnergyTransfer-[Notice] Loading NeXus monitors
+GetEi-[Notice] Incident energy calculated at Ei= 101.28 meV from initial guess = 100 meV
+DgsConvertToEnergyTransfer-[Notice] Adjusting for T0
+DgsPreprocessData-[Notice] Starting DgsPreprocessData
+DgsPreprocessData-[Notice] Incident beam norm method = None
+DgsConvertToEnergyTransfer-[Notice] Converting to energy transfer.
+DgsConvertToEnergyTransfer-[Notice] Rebinning data
+DgsConvertToEnergyTransfer-[Notice] Rebinning data
+DgsReduction-[Notice] DgsReduction successful, Duration 49.62 seconds
+AddSampleLog-[Notice] AddSampleLog started
+AddSampleLog-[Notice] AddSampleLog successful, Duration 0.00 seconds
+SaveNexus-[Notice] SaveNexus started
+SaveNexus-[Notice] SaveNexus successful, Duration 1.48 seconds
+* working on  work_44.8746789211/sim_44.8746789211.nxs
